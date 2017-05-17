@@ -1,0 +1,17 @@
+To visualize Jupyter notebooks:
+
+1. go to this address:
+https://nbviewer.jupyter.org
+
+2. paste the address of the github page storing the notebook in the textbar and click Go!
+
+the address for the first notebook is:
+
+https://github.com/geobiolmu/WP49.2_Datenverarbeitung_WiSe1617/blob/master/Notebooks/001_R_Intro.ipynb
+
+you should see the notebook as a static html page.
+
+Enjoy!
+
+Sergio
+
